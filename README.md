@@ -1,4 +1,16 @@
-# MiApp
+<div align="center">
+   <h1 align="center">Inicio de Sesión y Lista de Productos
+     
+   <br />
+
+  ![Static Badge](https://img.shields.io/badge/Angular-Black?style=flat&logo=angular&color=black)
+  ![Static Badge](https://img.shields.io/badge/TypeScript-Black?style=flat&logo=typescript&color=white)
+  ![Static Badge](https://img.shields.io/badge/C%23-purple?logo=.net)
+  ![Static Badge](https://img.shields.io/badge/SQL--Server-black)
+      
+   </h1>
+</div>
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.8.
 
